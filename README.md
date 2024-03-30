@@ -1,2 +1,2 @@
-# leetcode questions
-My leetcode solutions, which I answered from my point of view.
+## LeetCode Solutions
+LeetCode problem solutions, provided from my own perspective. Mostly: TS, JS, SQL.
