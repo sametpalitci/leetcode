@@ -1,1 +1,1 @@
-delete A from Person A, Person B where A.id > B.id and A.email=B.email;
+DELETE A FROM Person A, Person B WHERE A.id > B.id AND A.email=B.email;
