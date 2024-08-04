@@ -4,8 +4,7 @@ const getDecimalValue = (head) => {
         value += head.val;
         head = head.next;
     }
-    var decimal = parseInt(value, 2);
-    return decimal
+    return parseInt(value, 2);
 }
 
 getDecimalValue([1, 0, 1])
