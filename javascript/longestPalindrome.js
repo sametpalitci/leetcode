@@ -26,4 +26,3 @@ const longestPalindrome = (s) => {
     return "";
 };
 
-console.log(longestPalindrome("xax"))
