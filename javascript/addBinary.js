@@ -3,4 +3,4 @@ const addBinary = (a, b) => {
     return total.toString(2);
 };
 
-return addBinary(11, 1);
+addBinary(11, 1);
