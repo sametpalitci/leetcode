@@ -1,5 +1,4 @@
 const longestPalindrome = (s) => {
-
     const palindromeCheck = (val) => {
         let left = 0,
             right = val.length - 1;
